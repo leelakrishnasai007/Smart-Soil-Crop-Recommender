@@ -17,3 +17,4 @@ __pycache__/
 # Env
 venv/
 .env
+.gitattributes
