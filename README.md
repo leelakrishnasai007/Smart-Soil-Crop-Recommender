@@ -10,6 +10,13 @@ This repository is organized to be recruiter-friendly:
 - results and comparison of multiple ML models
 - project artifacts (slides + poster) included in /docs
 
+## Poster Preview
+
+<p align="center">
+  <img src="poster/Project Research Poster.jpg" width="900">
+</p>
+
+
 ------------------------------------------------------------
 
 Why this project?
